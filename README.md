@@ -31,7 +31,7 @@ cd web-browser
 
 2. Install the required dependencies:
 ```bash
-pip install PyQt5 PyQtWebEngine
+pip install PyQt5 PyQt5-QtWebEngine
 ```
 
 ## Usage
